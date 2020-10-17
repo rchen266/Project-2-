@@ -14,10 +14,10 @@ public class DataWrangler {
         try {
             Scanner scanner = new Scanner(new File("Project 2 movies.txt"));
             while (scanner.hasNext()) {
-                String t = scanner.nextLine();// get the title of the movie
-                String d = scanner.nextLine();// get the director of movie
-                String g = scanner.nextLine();// get the genre of the movie
-                int r = scanner.nextInt();// the runtime of the movie
+                String title = scanner.nextLine();// get the title of the movie
+                String director = scanner.nextLine();// get the director of movie
+                String genre = scanner.nextLine();// get the genre of the movie
+                int runtime = scanner.nextInt();// the runtime of the movie
                 int l = scanner.nextInt();// the lenghth of the actors table
                 scanner.nextLine();
                 String[] s = new String[l];
@@ -27,7 +27,7 @@ public class DataWrangler {
                 }
                 int yrs = scanner.nextInt();
                 double rating = scanner.nextDouble();
-                Movie m = new Movie(t, d, g, r, s, yrs, rating);
+                Movie m = new Movie(title, director, genre, runtime, s, yrs, rating);
                 movies.insert(m);
 
                 scanner.nextLine();
