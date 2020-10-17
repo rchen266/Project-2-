@@ -21,7 +21,7 @@ public class DataWrangler {
                 int l = scanner.nextInt();// the lenghth of the actors table
                 scanner.nextLine();
                 String[] s = new String[l];
-                for (int i = 0; i < l; i++)//
+                for (int i = 0; i < l; i++)//create a new array to put the names in
                 {
                     s[i] = scanner.nextLine();
                 }
