@@ -10,16 +10,16 @@ public class Movie implements Comparable<Movie> {
     private String director;
     private String genre;
     private int runtime;
-    private String[] actor;
+    private String[] actors;
     private int year;
     private double ratings;
 
-    public Movie(String t, String d, String g, int rt, String[] act, int yr, double r) {
+    public Movie(String t, String d, String g, int rt, String[] actor, int yr, double r) {
         title = t;
         director = d;
         genre = g;
         runtime = rt;
-        this.actor = act;
+        this.actors = actor;
         year = yr;
         ratings = r;
     }
@@ -35,12 +35,12 @@ public class Movie implements Comparable<Movie> {
 
     @Override
     public int compareTo(Movie m) {
-        if (title.compareTo(m.getTitle()) > 0) {
-            return 1;
-        }
-        if (title.compareTo(m.getTitle()) < 0) {
+        if (title.compareTo(m.getTitle()) < 0) 
             return -1;
-        }
+        
+        if (title.compareTo(m.getTitle()) > 0) 
+            return 1;
+        
         return 0;
     }
 
