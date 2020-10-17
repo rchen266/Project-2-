@@ -1,0 +1,206 @@
+Fight Club
+David Fincher
+Thriller
+139
+3
+Brad Pitt
+Edward Norton
+Jared Leto
+1999
+8.9
+
+Avengers: Infinity War
+Anthony Russo
+Action
+160
+3
+Robert Downey Jr.
+Chris Hemsworth
+Mark Ruffalo
+2018
+8.4
+
+Avengers: Endgame
+Anthony Russo
+Action
+181
+3
+Robert DowneyJr.
+Chris Evans
+Mark Ruffalo
+2019
+8.4
+
+Interstellar
+Christopher Nolan
+Advneture
+169
+3
+Matthew McConaughey
+Anne Hathaway
+Jessica Chastain
+2014
+8.6
+
+Tenet
+Christopher Nolan
+Action
+150
+3
+John David Washington
+Robert Pattinson
+Elizabeth Debicki
+2020
+7.8
+
+Joker
+Todd Phillips
+Thriller
+122
+2
+Joaquin Phoenix
+Robert De Niro
+2019
+9.4
+
+The Dark Night
+Christopher Nolan
+Action
+152
+3
+Christian Bale
+Heath Ledger
+Aaron Eckhart
+2008
+9
+
+Mission: Impossible
+Brain De Palma
+Action
+110
+3
+Tom Cruise
+Jon Voight
+Emmanuelle Béart
+1996
+7.1
+
+Skyfall
+Sam Mendes
+Action
+143
+3
+Daniel Craig
+Javier Bardem
+Naomie Harris
+2012
+7.7
+
+Titanic
+James Cameron
+Romance
+195
+2
+Leonardo DiCaprio
+Kate Winslet
+1997
+9.7
+
+Parasite
+Bong Joon Ho
+Comedy
+132
+3
+Kang-ho Song
+Sun-kyun Lee
+Yeo-jeong Jo
+2019
+8.6
+
+Harry Potter and the Sorcerer's Stone
+Chris Columbus
+Adventure
+152
+3
+Daniel Radcliffe
+Rupert Grint
+Richard Harris
+2001
+7.6
+
+Harry Potter and the Chamber of Secrets
+Chris Columbus
+Adventure
+161
+3
+Daniel Radcliffe
+Rupert Grint
+Richard Harris
+2002
+7.4
+
+Harry Potter and the Prisoner of Azkaban
+Alfonso Cuaron
+Adventure
+142
+3
+Daniel Radcliffe
+Emma Watson
+Rupert Grint
+2004
+7.9
+
+Harry Potter and the Goblet of Fire
+Mike Newell
+Adventure
+157
+3
+Daniel Radcliffe
+Emma Watson
+Rupert Grint
+2005
+7.7
+
+Harry Potter and the Order of the Phoenix
+David Yates
+Adventure
+138
+3
+Daniel Radcliffe
+Emma Watson
+Rupert Grint
+2007
+7.5
+
+Harry Potter and the Half-Blood Prince
+David Yates
+Adventure
+153
+3
+Daniel Radcliffe
+Emma Watson
+Rupert Grint
+2009
+7.6
+
+Harry Potter and theDeathly Hallows: Part 1
+David Yates
+Adventure
+146
+3
+Daniel Radcliffe
+Emma Watson
+Rupert Grint
+2010
+7.7
+
+Harry Potter and theDeathly Hallows: Part 2
+David Yates
+Adventure
+130
+3
+Daniel Radcliffe
+Emma Watson
+Rupert Grint
+2010
+8.1
